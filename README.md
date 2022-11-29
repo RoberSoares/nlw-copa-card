@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 Copa 2022 </h1>
+<h1 align="center"> NLW Card Copa 2022 </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Criado um card para a Copa de 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblRmUU4xcHNGYXF0VTd2NU5EQS1ZUFNaam9md3xBQ3Jtc0tsbEJ6ZzRrdkFXU2xoVlo1VzFwU3hWLWlpejROOTJOUHlnamxzaHFuZGM1c084RGVLQXhKcFVaUW83LTE0YnVqN2NJRjBobVpKOTYya3FjMXlvUzZXWTMxRWFKYmNSNmdjLUVtc3c1aUgxNG1rQ1lMVQ&q=https%3A%2F%2Fwww.figma.com%2Ffile%2Fn4a3jhGZQzysXClp99bfyT%2FNLW-Copa-Card%2Fduplicate&v=sswJisbD2CY). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
